@@ -1,4 +1,4 @@
 napf-Buildings
 ==============
 
-Custom buildings for napf (DayZ)
+These buildings are still a work in progress so please bare with me - Pickle
